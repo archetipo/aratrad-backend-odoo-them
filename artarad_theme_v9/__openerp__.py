@@ -3,13 +3,13 @@
 # License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 
 {
-    "name": "artarad_theme_v9",
-    "summary": "artarad_theme_v9 community backend theme",
+    "name": "Professional theme v9",
+    "summary": "Professional theme v9 community backend theme",
     "version": "1.0",
     "category": "Themes/Backend",
     "website": "http://www.artarad.com",
 	"description": """
-		artarad_theme_v9 community edition.
+		Professional theme v9 community edition.
 		The app dashboard is based on the module web_responsive from LasLabs Inc and the theme on Bootstrap United.
     """,
 	'images':[
