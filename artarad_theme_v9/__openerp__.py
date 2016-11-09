@@ -4,7 +4,10 @@
 
 {
     "name": "Professional theme v9",
-    "summary": "Professional theme v9 community backend theme",
+    "summary": """
+    Professional theme v9 
+Professional them, for Professional business
+""",
     "version": "1.0",
     "category": "Themes/Backend",
     "website": "http://www.artarad.com",
