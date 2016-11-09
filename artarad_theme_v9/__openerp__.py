@@ -5,7 +5,8 @@
 {
     "name": "Professional theme v9",
     "summary": """
-    Backend theme v9 
+    Backend theme v9!
+    
 Professional them, for Professional business
 """,
     "version": "1.0",
