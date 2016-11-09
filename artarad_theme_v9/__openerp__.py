@@ -13,7 +13,7 @@
 		The app dashboard is based on the module web_responsive from LasLabs Inc and the theme on Bootstrap United.
     """,
 	'images':[
-        'images/screenshot.png'
+        'images/newScreen.png'
 	],
     "author": "artarad",
     "license": "LGPL-3",
