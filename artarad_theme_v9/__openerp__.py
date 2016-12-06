@@ -17,7 +17,7 @@ Professional them, for Professional business
 		The app dashboard is based on the module web_responsive from LasLabs Inc and the theme on Bootstrap United.
     """,
 	'images':[
-        'images/screen.png'
+        'images/screen.gif'
 	],
     "author": "artarad",
     "license": "LGPL-3",
