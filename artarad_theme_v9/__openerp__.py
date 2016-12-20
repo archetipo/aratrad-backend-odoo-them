@@ -19,7 +19,7 @@ Professional them, for Professional business
 	'images':[
         'images/screen.png'
 	],
-    "author": "artarad",
+    "author": "Artarad",
     "license": "LGPL-3",
     "installable": True,
     "depends": [
