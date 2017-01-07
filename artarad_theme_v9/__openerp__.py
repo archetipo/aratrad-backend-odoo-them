@@ -11,6 +11,7 @@ Professional them, for Professional business
 """,
     "version": "1.0",
     "category": "Themes/Backend",
+    'live_test_url':'http://ecommercedemo.artarad.com',
     "website": "http://www.artarad.com",
 	"description": """
 		Professional theme v9 community edition.
